@@ -2,19 +2,10 @@
 #### Atualmente sou estudante do curso de Análise e Desenvolvimentos de Sistemas na FATEC 💻
 #####  Focado em programação e desenvolvimento web. Busco oportunidade na área para por em pratica as habilidades e aprendizado que tenho desenvolvido e contribuir para o crescimento da empresa.
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheus.prestes_@outlook.com?subject=From%20[GitHub])
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514991652516?text=Olá%20Matheus,%20eu%20estava%20dando%20uma%20olhada%20em%20seu%20GitHub%20.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514991049435?text=Olá%20Matheus,%20eu%20estava%20dando%20uma%20olhada%20em%20seu%20GitHub%20.)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pretis)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-prestes-235833186)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathprestes?tab=repositories)
-
-### Meus Portifolios
-
-<div style="align:center"> 
-
-[![WebSite1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://portprestes.online)
-[![WebSite2](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://portprestes.online)
-
-</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathprestes&theme=blue-green)
 
